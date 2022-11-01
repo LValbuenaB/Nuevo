@@ -9,6 +9,8 @@ public class Conexion {
     public static final String usuario = "root";
     public static final String contraseña = "1234";
     
+    //Comentario prueba
+    
     public Connection getConnection(){
         Connection conexion = null;
         
